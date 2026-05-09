@@ -1,4 +1,4 @@
-# Shortcut App 🚀
+# Shortcut App v2.3
 
 Shortcut App, bilgisayar kullanımını hızlandırmak ve favori dosyalarınıza tek bir noktadan erişmek için tasarlanmış minimalist bir kısayol yönetim sistemidir.
 
