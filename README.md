@@ -20,4 +20,4 @@ Uygulama ayarlarını ve yapılandırma panelini açmak için aşağıdaki kısa
 *   **Geliştirici:** om3rrxh
 
 ---
-*powered by om3rrxh
+### powered by om3rrxh
