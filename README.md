@@ -2,6 +2,9 @@
 
 Shortcut App, bilgisayar kullanımını hızlandırmak ve favori dosyalarınıza tek bir noktadan erişmek için tasarlanmış minimalist bir kısayol yönetim sistemidir.
 
+### 🗃️ Güncellemeler
+* v2.3 
+sa
 ### 🛠️ Özellikler
 *   **9 Butonlu Sistem:** En çok kullandığınız araçlar için optimize edilmiş 9 adet tamamen özelleştirilebilir buton.
 *   **Geniş Dosya Desteği:** Klasörleri, `.exe` programlarını ve `.bat` dosyalarını doğrudan tetikleyebilme.
@@ -13,7 +16,7 @@ Uygulama ayarlarını ve yapılandırma panelini açmak için aşağıdaki kısa
 > **`CTRL + ALT + P`**
 
 ### 📦 Sürüm Bilgisi
-*   **Versiyon:** v2.2
+*   **Versiyon:** v2.3
 *   **Durum:** Kararlı (Stable)
 
 ### 👤 Yapımcı
