@@ -6,4 +6,5 @@
 * Menüde hafif düzenlemeler getirildi.
 
 ---
+
 ### powered by om3rrxh
