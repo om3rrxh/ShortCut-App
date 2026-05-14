@@ -2,6 +2,7 @@
 
 ### v2.4
 * Renk düzeltmeleri yapıldı.
+* Kullanım yüzdesine göre 3 değil artık 4 farklı renk geliyor.
 
 ### v2.3
 * Güvenlik yaması ve online sürüm kontrol desteği geldi.
