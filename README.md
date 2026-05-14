@@ -13,7 +13,7 @@ Uygulama ayarlarını ve yapılandırma panelini açmak için aşağıdaki kısa
 > **`CTRL + ALT + P`**
 
 ### 📦 Sürüm Bilgisi
-*   **Versiyon:** v2.3
+*   **Versiyon:** v2.4
 *   **Durum:** Kararlı (Stable)
 
 ### 👤 Yapımcı
