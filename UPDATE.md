@@ -1,5 +1,8 @@
 # 🗃️ Güncellemeler
 
+### v2.4
+* Renk düzeltmeleri yapıldı.
+
 ### v2.3
 * Güvenlik yaması ve online sürüm kontrol desteği geldi.
 * Setup ve Web Setup ile kurulum kolaylaştı.
