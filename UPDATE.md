@@ -1,5 +1,11 @@
 # 🗃️ Güncellemeler
 
+### v3.0
+* Tema rengi değiştirildi.
+* Logoda değişiklik yapıldı.
+* Ayarlar sekmesi güncellendi.
+* Daha temiz ekran için sistem gizleme eklendi.
+
 ### v2.4
 * Renk düzeltmeleri yapıldı.
 * Kullanım yüzdesine göre 3 değil artık 4 farklı renk geliyor.
