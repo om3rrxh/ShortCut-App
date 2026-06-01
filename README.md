@@ -1,4 +1,4 @@
-# Shortcut App v3.0
+# Shortcut App v3.1
 
 Shortcut App, bilgisayar kullanımını hızlandırmak ve favori dosyalarınıza tek bir noktadan erişmek için tasarlanmış minimalist bir kısayol yönetim sistemidir.
 
@@ -13,7 +13,7 @@ Uygulama ayarlarını ve yapılandırma panelini açmak için aşağıdaki kısa
 > **`CTRL + ALT + P`**
 
 ### 📦 Sürüm Bilgisi
-*   **Versiyon:** v3.0
+*   **Versiyon:** v3.1
 *   **Durum:** Kararlı (Stable)
 
 ### 👤 Yapımcı
